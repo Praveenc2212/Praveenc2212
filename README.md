@@ -84,10 +84,10 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: **yourmail@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/yourlinkedin**
-- 🧑‍💻 GitHub: **https://github.com/yourusername**
-- 🏆 LeetCode: **https://leetcode.com/yourleetcodeid**
+- 📧 Email: **praveenc2212@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/praveen-c-388b69307/**
+- 🧑‍💻 GitHub: **https://github.com/Praveenc2212**
+- 🏆 LeetCode: **https://leetcode.com/praveen_c2212**
 
 ---
 
