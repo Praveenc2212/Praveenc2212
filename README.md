@@ -6,7 +6,7 @@
 <h3 align="center">Java Full Stack Developer | Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/Praveenc2212"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge"></a>
+  <a href="https://github.com/Praveenc2212"><img src="https://img.shields.io/github/followers/Praveenc2212?label=Followers&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/praveen-c-388b69307/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:praveenc2212@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://leetcode.com/praveen_c2212"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
@@ -56,15 +56,16 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenc2212&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenc2212&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praveenc2212&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Praveenc2212&theme=tokyonight" />
 </p>
+
 
 ---
 
