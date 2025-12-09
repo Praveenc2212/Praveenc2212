@@ -34,7 +34,7 @@
 
 ## 📊 LeetCode Progress  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yourleetcodeid?theme=dark&font=Marcellus" />
+  <img src="https://leetcard.jacoblin.cool/praveen_c2212?theme=dark&font=Marcellus" />
 </p>
 
 ---
